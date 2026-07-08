@@ -144,11 +144,37 @@ Contributed to a senior wellness & safety platform — built questionnaires, pro
 
 ### 🐍 Contribution Snake
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/Aliwaris512/Aliwaris512/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</div>
+name: Generate Snake Animation
 
-> Note: the snake animation above needs a one-time GitHub Actions setup in your `Aliwaris512/Aliwaris512` repo (workflow provided below) to generate that SVG automatically.
+on:
+  schedule:
+    - cron: "0 */12 * * *"   # runs every 12 hours
+  workflow_dispatch: {}
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate snake animation SVG
+        uses: Platane/snk@v3
+        with:
+          github_user_name: Aliwaris512
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push generated files to the "output" branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 ---
 
