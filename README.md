@@ -1,20 +1,173 @@
-# 💫 About Me:
-I’m Ali Waris, a passionate Full Stack Developer and Web Designer with hands-on experience in building modern, responsive, and user-friendly applications. I specialize in creating clean UI/UX designs and developing scalable web and mobile apps using frameworks like Vue.js, React, and modern backend technologies.<br><br>I enjoy turning ideas into fully functional products—integrating APIs, optimizing performance, and refining every detail until the project feels complete. My journey includes working at CodeSuite as a Assosiate Frontend Developer, building real-world solutions, and continuously improving my skills.<br><br>Driven, creative, and always learning—my goal is to build digital experiences that are fast, intuitive, and visually impactful.
+<div align="center">
 
+<!-- Animated typing intro -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Ali+Waris+%F0%9F%91%8B;Full+Stack+Software+Engineer;React+%7C+React+Native+%7C+Node.js+%7C+Django;Building+scalable+full+stack+apps+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/yeah._.itz_ali)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yeah._.itz_ali)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-waris-b1a9ab318)
+<!-- Animated wave banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Welcome%20to%20my%20profile!&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" />
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SvelteKit](https://img.shields.io/badge/sveltekit-%23ff3e00.svg?style=for-the-badge&logo=svelte&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Aliwaris512&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Aliwaris512&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aliwaris512&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Aliwaris512&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🧑‍💻 About Me
+
+- 🎓 BS in Robotics @ **Superior University, Lahore** (2023 – 2027)
+- 💼 **Associate Software Engineer** @ CodeSuite (May 2025 – Present)
+- 🛠️ Full stack engineer with 1+ years shipping **React, Vue, Node/Django** production apps
+- 🧩 I architect reusable, scalable frontend systems and integrate them cleanly with REST APIs & relational databases
+- 🤖 Exploring **AI Agents, LangChain, RAG & N8N automations**
+- 📍 Based in Lahore, Pakistan
+- 📫 Reach me at **aliwariskhan512@gmail.com**
+
+---
+
+### 🚀 Tech Stack
+
+<div align="center">
+
+**Frontend & Mobile**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-1C1E24?style=for-the-badge&logo=expo&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**AI / ML & Automation**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+
+**Testing & Tools**
+
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+---
+
+### 💼 Experience
+
+<table>
+<tr>
+<td>
+
+**Associate Software Engineer — CodeSuite**
+*May 2025 – Present*
+
+- Architected reusable component libraries in React.js & Vue.js, cutting duplicate UI code across 3+ production apps
+- Built responsive, cross-browser UI layers with Tailwind CSS, achieving zero layout-breaking bugs post-release
+- Designed & consumed REST APIs connecting cleanly to Node.js, FastAPI, and Django services
+- Applied MySQL schema and query fundamentals to reduce QA-reported data bugs
+- Profiled and optimized JS code paths to improve render/response performance
+- Enforced clean code & version control practices, reducing post-deployment hotfixes
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🛠️ Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+**🎓 Student Portal**
+University portal built with React + FastAPI, JWT-secured auth, role-based access control, and MySQL-backed data workflows.
+
+</td>
+<td width="50%">
+
+**🚌 Shuttle Service App**
+Vue.js frontend with reusable, scalable components and Node.js API integration for a smooth, responsive experience.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**💰 Expense Tracker**
+Vue 3 (Composition API) app with modular architecture, reactive state management, and real-time financial data display.
+
+</td>
+<td width="50%">
+
+**📱 Social Media App**
+Full-stack web & mobile social platform with dynamic API-driven content and cross-platform compatibility.
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+**🏥 SaaS / Healthcare Web Platform**
+Contributed to a senior wellness & safety platform — built questionnaires, profile management, and dashboard workflows with a scalable, maintainable frontend architecture.
+
+</td>
+</tr>
+</table>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Aliwaris512&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aliwaris512&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aliwaris512&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Aliwaris512/Aliwaris512/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</div>
+
+> Note: the snake animation above needs a one-time GitHub Actions setup in your `Aliwaris512/Aliwaris512` repo (workflow provided below) to generate that SVG automatically.
+
+---
+
+### 🔗 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-waris-b1a9ab318)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aliwaris512)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aliwariskhan512@gmail.com)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer" width="100%" />
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Aliwaris512&color=blueviolet&style=flat-square&label=Profile+Views)
+
+</div>
+
+</div>
